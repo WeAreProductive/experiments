@@ -9,7 +9,7 @@ import HeroBg from '@site/static/img/hero.png';
 
 const Hero = () => {
   return (
-    <div className='flex flex-col justify-center pb-12 min-h-[70vh] bg-foreground text-background pt-headerDesktop relative'>
+    <div className='flex flex-col justify-center pb-12 min-h-[85vh] bg-foreground text-background pt-headerDesktop relative'>
       <div className='absolute inset-0'>
         <img
           src={HeroBg}
